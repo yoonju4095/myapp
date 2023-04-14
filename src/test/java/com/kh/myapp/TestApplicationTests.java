@@ -1,4 +1,4 @@
-package com.kh.test;
+package com.kh.myapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

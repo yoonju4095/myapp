@@ -1,12 +1,12 @@
-package com.kh.myApp;
+package com.kh.myapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TestApplication {
+public class MyappApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestApplication.class, args);
+		SpringApplication.run(MyappApplication.class, args);
 	}
 }
